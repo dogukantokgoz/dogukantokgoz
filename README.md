@@ -15,7 +15,8 @@
 ### 📫 Contact
 
 <a href="mailto:dogukantokgoz4@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="30"
+       style="filter: invert(34%) sepia(92%) saturate(5120%) hue-rotate(343deg) brightness(100%) contrast(101%);" />
 </a>
 
 <a href="https://www.linkedin.com/in/dogukantokgoz/">
