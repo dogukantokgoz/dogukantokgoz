@@ -15,11 +15,11 @@
 ### 📫 Contact
 
 <a href="mailto:dogukantokgoz4@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" width="30" />
 </a>
 
 <a href="https://www.linkedin.com/in/dogukantokgoz/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
 </a>
 
 <a href="https://www.instagram.com/dogukantokgoz">
