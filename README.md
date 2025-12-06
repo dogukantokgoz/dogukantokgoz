@@ -14,19 +14,16 @@
 
 ### 📫 Contact
 
-<a href="mailto:dogukantokgoz4@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" width="30" />
-</a>
+[![Email](https://img.shields.io/badge/Email-dogukantokgoz4%40gmail.com-red?logo=gmail)](mailto:dogukantokgoz4@gmail.com)
 
-
-<a href="https://www.linkedin.com/in/dogukantokgoz/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-</a>
-
-<a href="https://www.instagram.com/dogukantokgoz">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
-</a>
-
-<a href="https://github.com/dogukantokgoz">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/dogukantokgoz/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
+  </a>
+  <a href="https://www.instagram.com/dogukantokgoz">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
+  </a>
+  <a href="https://github.com/dogukantokgoz">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" />
+  </a>
+</p>
