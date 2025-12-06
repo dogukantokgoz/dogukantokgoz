@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Doğukan Tokgöz
 
-<!--
-**dogukantokgoz/dogukantokgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-End Developer focused on building scalable APIs and distributed systems**
 
-Here are some ideas to get you started:
+🚀 I design and develop clean, maintainable backend solutions with modern principles and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** PHP (Laravel, Symfony), Python
+- **Frontend:** Angular, JavaScript, HTML5, CSS3  
+- **Queue:** RabbitMQ, Kafka  
+- **Caching:** Redis, Elasticsearch  
+- **Databases:** MySQL, PostgreSQL, MongoDB, MSSQL, SQLite  
+- **Architecture & Principles:** OOP, SOLID principles, Architectural Design Patterns
+
+### 📫 Contact
+- [![Email](https://img.shields.io/badge/Email-dogukantokgoz4%40gmail.com-red?logo=gmail)](mailto:dogukantokgoz4@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dogukantokgoz/)
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/dogukantokgoz)
+- [![GitHub](https://img.shields.io/badge/GitHub-dogukantokgoz-black?logo=github)](https://github.com/dogukantokgoz)
