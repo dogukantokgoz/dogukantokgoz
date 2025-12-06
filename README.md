@@ -15,9 +15,9 @@
 ### 📫 Contact
 
 <a href="mailto:dogukantokgoz4@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="30"
-       style="filter: invert(34%) sepia(92%) saturate(5120%) hue-rotate(343deg) brightness(100%) contrast(101%);" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" width="30" />
 </a>
+
 
 <a href="https://www.linkedin.com/in/dogukantokgoz/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
