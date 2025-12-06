@@ -13,7 +13,19 @@
 - **Architecture & Principles:** OOP, SOLID principles, Architectural Design Patterns
 
 ### 📫 Contact
-- [![Email](https://img.shields.io/badge/Email-dogukantokgoz4%40gmail.com-red?logo=gmail)](mailto:dogukantokgoz4@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dogukantokgoz/)
-- [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/dogukantokgoz)
-- [![GitHub](https://img.shields.io/badge/GitHub-dogukantokgoz-black?logo=github)](https://github.com/dogukantokgoz)
+
+<a href="mailto:dogukantokgoz4@gmail.com">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" />
+</a>
+
+<a href="https://www.linkedin.com/in/dogukantokgoz/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="30" />
+</a>
+
+<a href="https://www.instagram.com/dogukantokgoz">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
+</a>
+
+<a href="https://github.com/dogukantokgoz">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" />
+</a>
