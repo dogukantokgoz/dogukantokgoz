@@ -9,7 +9,7 @@
 - **Frontend:** Angular, JavaScript, HTML5, CSS3  
 - **Queue:** RabbitMQ, Kafka  
 - **Caching:** Redis, Elasticsearch  
-- **Databases:** MySQL, PostgreSQL, MongoDB, MSSQL, SQLite  
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Architecture & Principles:** OOP, SOLID principles, Architectural Design Patterns
 
 ### 📫 Contact
